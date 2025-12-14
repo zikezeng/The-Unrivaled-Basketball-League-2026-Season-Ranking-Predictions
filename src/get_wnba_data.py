@@ -16,6 +16,6 @@ headers_cols = data["resultSets"][0]["headers"]
 rows = data["resultSets"][0]["rowSet"]
 
 df = pd.DataFrame(rows, columns=headers_cols)
-df.to_csv("wnba_2025_totals.csv", index=False)
+df.to_csv("../data/raw/wnba_2025_totals.csv", index=False)
 
 print(df)
