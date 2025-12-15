@@ -5,6 +5,8 @@ The-Unrivaled-Basketball-League-2026-Season-Ranking-Predictions
 # Creating a virtual environemnt
 # Installing the required libraries
 # Data collection
+The following notebooks are used to collect raw data:
+
 # Data Cleaning 
 # Data Analysis
 # Data Visualization
