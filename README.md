@@ -8,8 +8,7 @@ Mengxiang Xiao & Zike Zeng
 
 # Creating a virtual environemnt
 python -m venv venv
-
-venv\Scripts\activate
+source venv/bin/activate
 
 # Installing the required libraries
 pip install -r requirements.txt
