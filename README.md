@@ -36,5 +36,9 @@ pip install -r requirements.txt
   jupyter notebook src/run_analysis_team_score.ipynb
 
 # Data Visualization
-Final team scores results are visualized using:
-jupyter notebook visualize_team_results.ipynb
+1) Final team scores results are visualized using:
+  jupyter notebook jupyter notebook src/visualize_team_results.ipynb
+2) Performance differences by each metric are visualized using:
+  jupyter notebook jupyter notebook src/visualize_performance_difference_by_each_metric.ipynb
+3) The weight of each key metric is visualized using:
+   jupyter notebook jupyter notebook src/src/visualize_weight_of_each_key_metric.ipynb
