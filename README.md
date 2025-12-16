@@ -3,7 +3,7 @@
 # Project Overview
 This project aims to predict the ranking of the eight teams in the Unrivaled Basketball League for the upcoming 2026 season.
 
-# Team Memebers
+# Team Members
 Mengxiang Xiao & Zike Zeng
 
 # Creating a virtual environemnt
