@@ -7,7 +7,7 @@ This project aims to predict the ranking of the eight teams in the Unrivaled Bas
 Mengxiang Xiao & Zike Zeng
 
 # Creating a virtual environemnt
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 
 # Installing the required libraries
