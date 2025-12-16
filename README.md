@@ -23,13 +23,13 @@ pip install -r requirements.txt
 
 # Data Cleaning 
 1) To identify the key metrics for generating the player scoring model, raw data is cleaned and prepared using the following notebook:
-  jupyter notebook src/Data Cleaning-Identify Key Metrics.ipynb
+  jupyter notebook src/clean_key_metrics.ipynb
 2) To filter the key metrics, raw data of the player-level statistics for all players who appeared in the 2025 WNBA regular season is cleaned and processed using the following notebook:
   jupyter notebook src/clean_wnba.ipynb
 
 # Data Analysis
 1) To calculate the weight of each key metrics and generate the custom weighted scoring model, the following notebook is used:
-  jupyter notebook src/caculate weight & weight formula.ipynb
+  jupyter notebook src/run_analysis_weight.ipynb
 2) Player performance scores are calculated using the following notebook:
   jupyter notebook src/run_analysis_wnba_2025_player_scores.ipynb
 3) Each team's score (averaged) and the final ranking are calculated using the following notebook:
